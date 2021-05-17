@@ -22,7 +22,7 @@ node js should be installed in your os.
 4. Copy bot token
 ![image](https://user-images.githubusercontent.com/63380308/118429714-441ad880-b70d-11eb-8e68-830659219844.png)
 5. create new folder with any name.
-6. install yarn and open cmd to write 'npm i -g yarn'
+6. open cmd to write 'npm i -g yarn' as created folder path
 7. install every module in requirement
 8. start bot by using npm run start
 
