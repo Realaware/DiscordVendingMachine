@@ -11,6 +11,7 @@ node js should be installed in your os.
 - prisma
 - @prisma/client
 - @types/node
+- tsc-watch
 
 
 # How to use
@@ -25,6 +26,42 @@ node js should be installed in your os.
 6. open cmd to write 'npm i -g yarn' as created folder path
 7. install every module in requirement
 8. start bot by using npm run start
+
+# Commands
+<table>
+  <tr>
+    <th>module name</th>
+    <th>command</th>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>yarn add typescript</td>
+  </tr>
+  <tr>
+    <td>axios</td>
+    <td>npm i axios</td>
+  </tr>
+  <tr>
+    <td>discord.js</td>
+    <td>npm i discord.js</td>
+  </tr>
+  <tr>
+    <td>prisma</td>
+    <td>npm install prisma -D</td>
+  </tr>
+  <tr>
+    <td>@prisma/client</td>
+    <td>npm install @prisma/client</td>
+  </tr>
+  <tr>
+    <td>@types/node</td>
+    <td>npm i @types/node</td>
+  </tr>
+  <tr>
+    <td>tsc-watch</td>
+    <td>yarn add tsc-watch --dev</td>
+  </tr>
+</table>
 
 that's all
 
