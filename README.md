@@ -27,7 +27,7 @@ node js should be installed in your os.
 7. install every module in requirement
 8. start bot by using npm run start
 
-# Commands
+# Module installation
 <table>
   <tr>
     <th>module name</th>
